@@ -1,0 +1,22 @@
+body {
+    background: white;
+}
+
+
+h1 {
+    /*position: fixed;
+    top: 100;
+    */
+    color: black;
+    text-shadow: 15px -15px 5px blue;
+}
+
+#canvas {
+    border: 1px solid black;
+    background: black;
+    float: center;
+}
+
+#button {
+    display: block;
+}
